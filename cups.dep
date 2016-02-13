@@ -1,0 +1,1 @@
+acl,attr,cxxlibs|gcc-g++,cyrus-sasl,dbus,gcc,libjpeg,libpng,libtiff,libusb,openldap-client,openssl|openssl-solibs,zlib

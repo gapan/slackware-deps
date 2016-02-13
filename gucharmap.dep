@@ -1,0 +1,1 @@
+at-spi2-atk,at-spi2-core,atk,bzip2,cairo,cxxlibs|gcc-g++,dbus,expat,fontconfig,freetype,gcc,gdk-pixbuf2,glib2,gtk+3,harfbuzz,icu4c,libICE,libSM,libX11,libXau,libXcomposite,libXcursor,libXdamage,libXdmcp,libXext,libXfixes,libXi,libXinerama,libXrandr,libXrender,libffi,libpng,libxcb,pango,pixman,util-linux,zlib

@@ -1,0 +1,1 @@
+curl,cxxlibs|gcc-g++,cyrus-sasl,db44,gcc,gmp,icu4c,libidn,libiodbc,libtool,libxml2,libxslt,mariadb,mhash,mpfr,openldap-client,openssl|openssl-solibs,raptor2,rasqal,sqlite,util-linux,xz,zlib

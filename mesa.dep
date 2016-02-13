@@ -1,0 +1,1 @@
+cxxlibs|gcc-g++,expat,freeglut,gcc,glew,glu,libICE,libSM,libX11,libXau,libXdamage,libXdmcp,libXext,libXfixes,libXi,libXmu,libXrandr,libXrender,libXt,libXxf86vm,libdrm,libpciaccess,libxcb,udev,util-linux,zlib

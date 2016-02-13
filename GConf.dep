@@ -1,0 +1,1 @@
+cyrus-sasl,dbus,dbus-glib,glib2,libffi,libxml2,openldap-client,openssl|openssl-solibs,polkit,xz,zlib

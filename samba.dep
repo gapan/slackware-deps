@@ -1,0 +1,1 @@
+acl,attr,cups,cyrus-sasl,dmapi,gamin,gmp,gnutls,libaio,libcap,libgcrypt,libgpg-error,ncurses,nettle,openldap-client,openssl|openssl-solibs,p11-kit,popt,python,zlib

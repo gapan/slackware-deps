@@ -1,0 +1,1 @@
+cxxlibs|gcc-g++,freeglut,gcc,glu,libX11,libXau,libXdamage,libXdmcp,libXext,libXfixes,libXi,libXrandr,libXrender,libXxf86vm,libdrm,libxcb,mesa,ncurses,slang,zlib

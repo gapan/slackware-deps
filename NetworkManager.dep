@@ -1,0 +1,1 @@
+ModemManager,dbus,dbus-glib,glib2,libffi,libnl3,libsoup,libxml2,mozilla-nss,polkit,sqlite,udev,util-linux,xz,zlib

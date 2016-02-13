@@ -1,0 +1,1 @@
+bzip2,cxxlibs|gcc-g++,freetype,gcc,gmp,gnutls,libICE,libSM,libX11,libXau,libXdmcp,libXext,libXfont,libXi,libXtst,libfontenc,libgcrypt,libgpg-error,libpng,libtasn1,libxcb,nettle,p11-kit,pixman,util-linux,zlib

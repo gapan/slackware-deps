@@ -1,0 +1,1 @@
+acl,alsa-lib,attica,attr,bzip2,cdparanoia,cxxlibs|gcc-g++,expat,flac,fontconfig,freetype,gamin,gcc,glib2,kdelibs,libICE,libSM,libX11,libXau,libXcursor,libXdmcp,libXext,libXfixes,libXft,libXi,libXpm,libXrender,libXtst,libdbusmenu-qt,libffi,libkcddb,libkcompactdisc,libogg,libpng,libvorbis,libxcb,libxml2,phonon,qca,qt,soprano,strigi,udev,util-linux,xz,zlib

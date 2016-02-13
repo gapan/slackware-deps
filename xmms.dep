@@ -1,0 +1,1 @@
+alsa-lib,audiofile,cxxlibs|gcc-g++,esound,flac,gcc,glib,gtk+,libICE,libSM,libX11,libXau,libXdamage,libXdmcp,libXext,libXfixes,libXxf86vm,libdrm,libogg,libvorbis,libxcb,mesa,util-linux,zlib

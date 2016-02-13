@@ -1,0 +1,1 @@
+acl,attr,bzip2,curl,cxxlibs|gcc-g++,cyrus-sasl,expat,fontconfig,freetype,gcc,glib2,libICE,libSM,libX11,libXau,libXdmcp,libXext,libXrender,libarchive,libffi,libidn,libpng,libxcb,libxml2,lzo,ncurses,nettle,openldap-client,openssl|openssl-solibs,qt,util-linux,xz,zlib
