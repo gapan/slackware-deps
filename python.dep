@@ -1,1 +1,1 @@
-bzip2,db48,expat,fontconfig,freetype,gcc,gcc-g++,gdbm,glib2,harfbuzz,icu4c,libX11,libXScrnSaver,libXau,libXdmcp,libXext,libXft,libXrender,libpng,libxcb,ncurses,openssl|openssl-solibs,readline,sqlite,zlib
+bzip2,db48,expat,gcc,gcc-g++,gdbm,glib2,icu4c,ncurses,openssl|openssl-solibs,readline,sqlite,zlib
