@@ -1,1 +1,1 @@
-gcc,gcc-g++,libICE,libSM,libX11,libXau,libXaw,libXdmcp,libXext,libXmu,libXpm,libXt,libxcb,util-linux
+gcc,gcc-g++,util-linux
