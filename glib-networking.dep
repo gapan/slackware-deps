@@ -1,1 +1,1 @@
-gcc,gcc-g++,glib2,gmp,gnutls,libffi,libidn,libproxy,nettle,p11-kit,zlib
+gcc,gcc-g++,glib2,gmp,gnutls,js185,libffi,libidn,libproxy,mozilla-nss,nettle,p11-kit,zlib
