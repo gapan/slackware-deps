@@ -1,1 +1,1 @@
-gcc,gcc-g++
+gcc,gcc-g++,libcap-ng
