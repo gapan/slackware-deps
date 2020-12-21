@@ -1,1 +1,1 @@
-bzip2,expat,freetype,glib2,harfbuzz,libX11,libXau,libXdamage,libXdmcp,libXext,libXfixes,libXfont,libXxf86vm,libdrm,libfontenc,libpng,libxcb,libxshmfence,mesa,nettle,pixman,zlib
+aaa_elflibs|bzip2,aaa_elflibs|gcc,aaa_elflibs|libpng,aaa_elflibs|pcre,aaa_elflibs|xz,aaa_elflibs|zlib,brotli,freetype,glib2,graphite2,harfbuzz,libX11,libXau,libXdmcp,libXext,libXfont2,libfontenc,libglvnd,libunwind,libxcb,libxshmfence,nettle,pixman

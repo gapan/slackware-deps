@@ -1,1 +1,1 @@
-gcc,gcc-g++,openssl|openssl-solibs,zlib
+aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|zlib,openssl|openssl-solibs

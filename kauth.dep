@@ -1,0 +1,1 @@
+aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|libffi,aaa_elflibs|libpng,aaa_elflibs|pcre,aaa_elflibs|zlib,dbus,elogind,gamin,glib2,icu4c,kcoreaddons,libX11,libXau,libXdmcp,libXext,libcap,libglvnd,libxcb,pcre2,polkit,polkit-qt-1,python2,python3,qt5,util-linux,zstd

@@ -1,0 +1,1 @@
+aaa_elflibs|bzip2,aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|libffi,aaa_elflibs|libpng,aaa_elflibs|ncurses,aaa_elflibs|pcre,aaa_elflibs|readline,aaa_elflibs|xz,aaa_elflibs|zlib,brotli,cairo,fontconfig,freetype,glib2,gobject-introspection,graphite2,harfbuzz,libX11,libXau,libXdmcp,libXext,libXrender,libglvnd,libxcb,libxml2,mozjs78,pixman,util-linux

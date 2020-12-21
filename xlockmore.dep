@@ -1,1 +1,1 @@
-bzip2,cairo,djvulibre,expat,fftw,fontconfig,freetype,gcc,gcc-g++,gdk-pixbuf2,glib2,glu,harfbuzz,ilmbase,imagemagick,lcms2,libICE,libSM,libX11,libXau,libXdamage,libXdmcp,libXext,libXfixes,libXinerama,libXmu,libXpm,libXrender,libXt,libXxf86vm,libcroco,libdrm,libffi,libjpeg-turbo,libpng,librsvg,libtiff,libwmf,libxcb,libxml2,libxshmfence,mesa,openexr,openjpeg,pango,pixman,util-linux,xz,zlib
+aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|libpng,aaa_elflibs|zlib,glu,libICE,libSM,libX11,libXau,libXdmcp,libXext,libXinerama,libXmu,libXpm,libXt,libglvnd,libxcb,pam,util-linux

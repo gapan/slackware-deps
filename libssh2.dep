@@ -1,1 +1,1 @@
-openssl|openssl-solibs,zlib
+aaa_elflibs|zlib,openssl|openssl-solibs

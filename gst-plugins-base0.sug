@@ -1,1 +1,1 @@
-alsa-lib,bzip2,cairo,cdparanoia,expat,fontconfig,freetype,glib2,harfbuzz,libICE,libSM,libX11,libXau,libXdamage,libXdmcp,libXext,libXfixes,libXrender,libXv,libXxf86vm,libdrm,libffi,libogg,libpng,libtheora,libvisual,libvorbis,libxcb,libxml2,libxshmfence,mesa,orc,pango,pixman
+alsa-lib,bzip2,libffi,libpng,pcre,xz,zlib,brotli,cairo,cdparanoia,fontconfig,freetype,fribidi,graphite2,harfbuzz,libICE,libSM,libX11,libXau,libXdmcp,libXext,libXrender,libXv,libglvnd,libogg,libtheora,libvisual,libvorbis,libxcb,libxml2,orc,pango,pixman

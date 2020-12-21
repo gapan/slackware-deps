@@ -1,1 +1,1 @@
-bzip2,gdk-pixbuf2,glib2,libffi,libpng,libxml2,xz,zlib
+aaa_elflibs|bzip2,aaa_elflibs|libffi,aaa_elflibs|pcre,aaa_elflibs|xz,aaa_elflibs|zlib,gdk-pixbuf2,glib2,libxml2,util-linux

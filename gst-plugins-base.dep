@@ -1,1 +1,1 @@
-gstreamer,zlib
+glib2,gstreamer,util-linux,zstd

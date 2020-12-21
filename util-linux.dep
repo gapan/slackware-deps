@@ -1,1 +1,1 @@
-eudev,libtermcap,ncurses,python,zlib
+aaa_elflibs|bzip2,aaa_elflibs|eudev,aaa_elflibs|ncurses,aaa_elflibs|pcre2,aaa_elflibs|readline,aaa_elflibs|xz,aaa_elflibs|zlib,file,libcap-ng,pam,python2

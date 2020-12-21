@@ -1,1 +1,1 @@
-eudev,gcc,gcc-g++,gdk-pixbuf2,glib2,icu4c,libffi,libimobiledevice,libplist,libpng,libusb,libusbmuxd,libxml2,openssl|openssl-solibs,sg3_utils,sqlite,xz,zlib
+aaa_elflibs|eudev,aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|libffi,aaa_elflibs|libusb,aaa_elflibs|pcre,aaa_elflibs|xz,aaa_elflibs|zlib,gdk-pixbuf2,glib2,icu4c,libimobiledevice,libplist,libusbmuxd,libxml2,openssl|openssl-solibs,sg3_utils,sqlite,util-linux

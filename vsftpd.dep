@@ -1,1 +1,1 @@
-attr,libcap,openssl|openssl-solibs
+aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|libnsl,aaa_elflibs|zlib,e2fsprogs,libcap,libtirpc,openssl|openssl-solibs

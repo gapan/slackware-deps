@@ -1,1 +1,1 @@
-gcc,gcc-g++,glib2,libffi,libsigc++,zlib
+aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|libffi,aaa_elflibs|pcre,aaa_elflibs|zlib,glib2,libsigc++,util-linux

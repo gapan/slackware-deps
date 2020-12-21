@@ -1,1 +1,1 @@
-libX11,libXau,libXdmcp,libXext,libpng,libxcb,zlib
+aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|libpng,aaa_elflibs|pcre,aaa_elflibs|zlib,glib2,icu4c,libX11,libXau,libXdmcp,libXext,libglvnd,libxcb,pcre2,qt5,zstd

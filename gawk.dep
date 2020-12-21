@@ -1,1 +1,1 @@
-gmp,libsigsegv,libtermcap,mpfr,readline
+aaa_elflibs|gmp,aaa_elflibs|libsigsegv,aaa_elflibs|mpfr,aaa_elflibs|ncurses,aaa_elflibs|readline

@@ -1,1 +1,1 @@
-glib2,gmp,gnutls,libffi,libidn,nettle,p11-kit,zlib
+aaa_elflibs|gmp,aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|libffi,aaa_elflibs|libidn,aaa_elflibs|libidn2,aaa_elflibs|libnsl,aaa_elflibs|pcre,e2fsprogs,glib2,gnutls,libtirpc,libunistring,nettle,p11-kit

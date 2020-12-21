@@ -1,1 +1,1 @@
-aspell,gcc,gcc-g++,glib2,hunspell
+aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|libffi,aaa_elflibs|pcre,aaa_elflibs|zlib,aspell,dbus,dbus-glib,elogind,glib2,hunspell,libcap,util-linux

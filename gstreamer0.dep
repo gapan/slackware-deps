@@ -1,1 +1,1 @@
-glib2,libffi,libxml2,xz,zlib
+aaa_elflibs|libffi,aaa_elflibs|pcre,aaa_elflibs|xz,aaa_elflibs|zlib,glib2,libxml2

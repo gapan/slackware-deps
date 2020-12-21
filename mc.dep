@@ -1,1 +1,1 @@
-glib2,gpm,libssh2,ncurses,openssl|openssl-solibs,slang,zlib
+aaa_elflibs|gpm,aaa_elflibs|libssh2,aaa_elflibs|ncurses,aaa_elflibs|pcre,aaa_elflibs|slang,aaa_elflibs|zlib,e2fsprogs,glib2,openssl|openssl-solibs

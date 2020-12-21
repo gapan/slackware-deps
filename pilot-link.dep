@@ -1,1 +1,1 @@
-bluez,eudev,libpng,libtermcap,libusb,libusb-compat,popt,python,readline,zlib
+aaa_elflibs|eudev,aaa_elflibs|libpng,aaa_elflibs|libusb,aaa_elflibs|libusb-compat,aaa_elflibs|ncurses,aaa_elflibs|popt,aaa_elflibs|readline,aaa_elflibs|zlib,bluez,python2

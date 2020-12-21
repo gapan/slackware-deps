@@ -1,1 +1,1 @@
-dbus,dbus-glib,glib2,libffi,libxfce4util,zlib
+aaa_elflibs|libffi,aaa_elflibs|pcre,aaa_elflibs|zlib,glib2,libxfce4util,util-linux

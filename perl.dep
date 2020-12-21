@@ -1,1 +1,1 @@
-db48,expat,gcc,gcc-g++,gdbm,openssl|openssl-solibs,zlib
+aaa_elflibs|db48,aaa_elflibs|expat,aaa_elflibs|gdbm,aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|libnsl,aaa_elflibs|zlib,e2fsprogs,libtirpc,mariadb,openssl|openssl-solibs

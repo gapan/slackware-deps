@@ -1,1 +1,1 @@
-gmp,libmnl,libnftnl,ncurses,readline
+aaa_elflibs|gmp,aaa_elflibs|ncurses,aaa_elflibs|readline,dbus,elogind,iptables,libcap,libmnl,libnftnl,libnl3,libpcap

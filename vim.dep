@@ -1,1 +1,1 @@
-acl,attr,gpm,ncurses,perl,python
+aaa_elflibs|acl,aaa_elflibs|attr,aaa_elflibs|gpm,aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|libnsl,aaa_elflibs|ncurses,e2fsprogs,libtirpc,perl

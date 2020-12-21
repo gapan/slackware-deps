@@ -1,1 +1,1 @@
-dbus,glib2,libffi,libgcrypt,libgpg-error
+aaa_elflibs|libffi,aaa_elflibs|pcre,dbus,elogind,glib2,libcap,libgcrypt,libgpg-error

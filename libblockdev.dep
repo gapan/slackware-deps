@@ -1,0 +1,1 @@
+aaa_elflibs|argon2,aaa_elflibs|eudev,aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|gmp,aaa_elflibs|libffi,aaa_elflibs|lvm2,aaa_elflibs|mpfr,aaa_elflibs|pcre,aaa_elflibs|pcre2,aaa_elflibs|xz,aaa_elflibs|zlib,cryptsetup,glib2,gpgme,icu4c,json-c,kmod,libassuan,libbytesize,libgpg-error,libyaml,mozilla-nss,ndctl,openssl|openssl-solibs,parted,sqlite,util-linux,volume_key

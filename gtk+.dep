@@ -1,1 +1,1 @@
-glib,libX11,libXau,libXdmcp,libXext,libxcb
+glib,libX11,libXau,libXdmcp,libXext,libXi,libxcb

@@ -1,1 +1,1 @@
-db48,dbus,eudev,iptables,libnl3,libpcap,libusb
+aaa_elflibs|db48,aaa_elflibs|elfutils,aaa_elflibs|zlib,dbus,elogind,iptables,libcap,libmnl,libnl3,libpcap

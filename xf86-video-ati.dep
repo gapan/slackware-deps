@@ -1,1 +1,1 @@
-eudev,libdrm,libpciaccess
+aaa_elflibs|eudev,aaa_elflibs|expat,aaa_elflibs|libffi,libdrm,libpciaccess,mesa,wayland

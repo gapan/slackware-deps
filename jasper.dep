@@ -1,1 +1,1 @@
-expat,freeglut,gcc,gcc-g++,glu,libICE,libSM,libX11,libXau,libXdamage,libXdmcp,libXext,libXfixes,libXi,libXmu,libXrandr,libXrender,libXt,libXxf86vm,libdrm,libjpeg-turbo,libxcb,libxshmfence,mesa,util-linux
+aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|libjpeg-turbo,freeglut,glu,libX11,libXau,libXdmcp,libXext,libXi,libXrandr,libXrender,libXxf86vm,libglvnd,libxcb

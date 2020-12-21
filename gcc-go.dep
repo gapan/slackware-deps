@@ -1,1 +1,1 @@
-gcc,gmp,libmpc,mpfr,zlib
+aaa_elflibs|gcc,aaa_elflibs|gmp,aaa_elflibs|isl,aaa_elflibs|libmpc,aaa_elflibs|mpfr,aaa_elflibs|zlib,zstd

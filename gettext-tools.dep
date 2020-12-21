@@ -1,1 +1,1 @@
-acl,attr,gcc,glib2,libcroco,libunistring,libxml2,ncurses,xz,zlib
+aaa_elflibs|acl,aaa_elflibs|attr,aaa_elflibs|gcc,aaa_elflibs|ncurses,aaa_elflibs|xz,aaa_elflibs|zlib,gettext,libunistring,libxml2

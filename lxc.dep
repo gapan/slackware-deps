@@ -1,1 +1,1 @@
-attr,cgmanager,dbus,libcap,libnih
+aaa_elflibs|gmp,aaa_elflibs|libffi,aaa_elflibs|libidn2,gnutls,libcap,libunistring,nettle,p11-kit

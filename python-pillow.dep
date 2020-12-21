@@ -1,1 +1,1 @@
-bzip2,eudev,expat,fontconfig,freetype,glib2,harfbuzz,lcms2,libX11,libXScrnSaver,libXau,libXdmcp,libXext,libXft,libXrender,libexif,libgphoto2,libieee1284,libjpeg-turbo,libpng,libtiff,libtool,libusb,libxcb,openjpeg,python,v4l-utils,xz,zlib
+aaa_elflibs|bzip2,aaa_elflibs|libjpeg-turbo,aaa_elflibs|libpng,aaa_elflibs|pcre,aaa_elflibs|xz,aaa_elflibs|zlib,brotli,freetype,glib2,graphite2,harfbuzz,lcms2,libXau,libXdmcp,libtiff,libwebp,libxcb,openjpeg,zstd

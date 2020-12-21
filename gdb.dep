@@ -1,1 +1,1 @@
-expat,gc,gmp,guile,libffi,libtool,libunistring,ncurses,python,xz
+aaa_elflibs|expat,aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|gmp,aaa_elflibs|libffi,aaa_elflibs|libtool,aaa_elflibs|mpfr,aaa_elflibs|ncurses,aaa_elflibs|readline,aaa_elflibs|xz,aaa_elflibs|zlib,gc,guile,libunistring,python3,xxHash

@@ -1,1 +1,1 @@
-cyrus-sasl,libidn,libssh2,openldap-client,openssl|openssl-solibs,zlib
+aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|libidn2,aaa_elflibs|libnsl,aaa_elflibs|libpsl,aaa_elflibs|libssh2,aaa_elflibs|openldap,aaa_elflibs|zlib,brotli,cyrus-sasl,e2fsprogs,libtirpc,libunistring,nghttp2,openssl|openssl-solibs,zstd

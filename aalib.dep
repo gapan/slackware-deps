@@ -1,1 +1,1 @@
-gpm,libX11,libXau,libXdmcp,libxcb,ncurses,slang
+aaa_elflibs|gpm,aaa_elflibs|ncurses,aaa_elflibs|slang,libX11,libXau,libXdmcp,libxcb

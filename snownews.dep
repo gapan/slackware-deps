@@ -1,1 +1,1 @@
-libxml2,ncurses,openssl|openssl-solibs,xz,zlib
+aaa_elflibs|ncurses,aaa_elflibs|xz,aaa_elflibs|zlib,libxml2

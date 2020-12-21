@@ -1,1 +1,1 @@
-alsa-lib,libX11,libXau,libXdmcp,libXext,libXrandr,libXrender,libsamplerate,libxcb,openssl|openssl-solibs
+aaa_elflibs|alsa-lib,aaa_elflibs|gmp,aaa_elflibs|libffi,aaa_elflibs|libidn2,gnutls,libX11,libXau,libXcursor,libXdmcp,libXext,libXfixes,libXrandr,libXrender,libsamplerate,libtasn1,libunistring,libxcb,nettle,p11-kit

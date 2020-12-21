@@ -1,1 +1,1 @@
-expat,gcc,gcc-g++,libdrm,libffi,llvm,mesa,ncurses,nettle,zlib
+aaa_elflibs|eudev,aaa_elflibs|expat,aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|ncurses,aaa_elflibs|zlib,libdrm,llvm,mesa,zstd

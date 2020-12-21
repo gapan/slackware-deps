@@ -1,1 +1,1 @@
-atk,gcc,gcc-g++,glib2,glibmm,libffi,libsigc++
+aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|libffi,aaa_elflibs|pcre,atk,glib2,glibmm,libsigc++

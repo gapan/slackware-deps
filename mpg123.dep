@@ -1,1 +1,1 @@
-alsa-lib,attr,dbus,flac,json-c,libICE,libSM,libX11,libXau,libXdmcp,libXext,libXi,libXrandr,libXrender,libXtst,libasyncns,libcap,libogg,libsndfile,libtool,libvorbis,libxcb,pulseaudio,sdl,svgalib,util-linux
+SDL2,aaa_elflibs|alsa-lib,aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|libnsl,dbus,e2fsprogs,elogind,flac,libXau,libXdmcp,libasyncns,libcap,libogg,libsndfile,libtirpc,libvorbis,libxcb,opus,pulseaudio

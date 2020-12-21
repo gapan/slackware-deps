@@ -1,1 +1,1 @@
-acl,attr,bzip2,gmp,libarchive,libxml2,lzo,ncurses,nettle,openssl|openssl-solibs,perl,ruby,tcl,xz,zlib
+aaa_elflibs|acl,aaa_elflibs|attr,aaa_elflibs|bzip2,aaa_elflibs|gmp,aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|libnsl,aaa_elflibs|ncurses,aaa_elflibs|xz,aaa_elflibs|zlib,e2fsprogs,libarchive,libtirpc,libxml2,lz4,openssl|openssl-solibs,perl,ruby,tcl,zstd

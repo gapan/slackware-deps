@@ -1,0 +1,1 @@
+aaa_elflibs|bzip2,aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|libffi,aaa_elflibs|libpng,aaa_elflibs|pcre,aaa_elflibs|xz,aaa_elflibs|zlib,brotli,dbus,elogind,fontconfig,freetype,glib2,graphite2,harfbuzz,icu4c,libICE,libSM,libX11,libXau,libXdmcp,libXext,libcap,libglvnd,libxcb,libxkbcommon,libxml2,pcre2,python2,python3,qt5,util-linux,wayland,zstd

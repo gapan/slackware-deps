@@ -1,1 +1,1 @@
-gc,gcc,gcc-g++,gmp,guile,libffi,libidn,libtool,libunistring,nettle,p11-kit,zlib
+aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|gmp,aaa_elflibs|libffi,aaa_elflibs|libidn2,aaa_elflibs|libtool,gc,guile,libunistring,nettle,p11-kit

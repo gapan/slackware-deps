@@ -1,0 +1,1 @@
+aaa_elflibs|bzip2,aaa_elflibs|elfutils,aaa_elflibs|eudev,aaa_elflibs|gcc,aaa_elflibs|libpng,aaa_elflibs|pcre,aaa_elflibs|xz,aaa_elflibs|zlib,brotli,cairo,elfutils,elogind,fontconfig,freetype,glib2,graphite2,gsl,harfbuzz,kmod,libX11,libXau,libXdmcp,libXext,libXrender,libcap,libdrm,libglvnd,libpciaccess,libunwind,libxcb,libxml2,openssl|openssl-solibs,pixman,procps-ng,zstd

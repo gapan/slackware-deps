@@ -1,1 +1,1 @@
-dbus,dbus-glib,glib2,libffi,zlib,python
+aaa_elflibs|pcre,dbus,elogind,glib2,libcap

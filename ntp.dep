@@ -1,1 +1,1 @@
-attr,libcap,libevent,libnl3,lm_sensors,net-snmp,openssl|openssl-solibs,perl
+aaa_elflibs|eudev,aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|libnsl,aaa_elflibs|ncurses,aaa_elflibs|pcre,aaa_elflibs|zlib,e2fsprogs,libcap,libedit,libevent,libnl3,libtirpc,lm_sensors,net-snmp,openssl|openssl-solibs,pciutils,perl

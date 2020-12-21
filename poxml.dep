@@ -1,1 +1,1 @@
-gcc,gcc-g++,gettext-tools,glib2,libunistring,qt,zlib
+aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|pcre,aaa_elflibs|zlib,gettext-tools,glib2,icu4c,libunistring,pcre2,qt5,zstd

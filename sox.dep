@@ -1,1 +1,1 @@
-alsa-lib,attr,dbus,file,flac,gcc,json-c,libICE,libSM,libX11,libXau,libXdmcp,libXext,libXi,libXtst,libao,libasyncns,libcap,libid3tag,libmad,libogg,libpng,libsndfile,libtool,libvorbis,libxcb,pulseaudio,util-linux,wavpack,zlib
+aaa_elflibs|alsa-lib,aaa_elflibs|bzip2,aaa_elflibs|gcc,aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|libnsl,aaa_elflibs|libpng,aaa_elflibs|libtool,aaa_elflibs|xz,aaa_elflibs|zlib,dbus,e2fsprogs,elogind,file,flac,lame,libXau,libXdmcp,libao,libasyncns,libcap,libid3tag,libmad,libogg,libsndfile,libtirpc,libvorbis,libxcb,opus,opusfile,pulseaudio,wavpack

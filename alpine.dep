@@ -1,1 +1,1 @@
-cyrus-sasl,ncurses,openldap-client,openssl|openssl-solibs
+aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|libnsl,aaa_elflibs|ncurses,aaa_elflibs|openldap,aaa_elflibs|zlib,cyrus-sasl,e2fsprogs,libtirpc,openssl|openssl-solibs

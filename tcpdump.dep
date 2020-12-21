@@ -1,1 +1,1 @@
-dbus,eudev,libnl3,libpcap,libusb,openssl|openssl-solibs
+aaa_elflibs|zlib,dbus,elogind,libcap,libcap-ng,libnl3,libpcap,openssl|openssl-solibs

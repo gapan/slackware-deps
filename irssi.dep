@@ -1,1 +1,1 @@
-glib2,ncurses,openssl|openssl-solibs,perl
+aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|libnsl,aaa_elflibs|ncurses,aaa_elflibs|pcre,aaa_elflibs|zlib,e2fsprogs,glib2,libtirpc,openssl|openssl-solibs,perl,utf8proc

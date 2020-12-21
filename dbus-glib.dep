@@ -1,1 +1,1 @@
-dbus,expat,glib2,libffi,zlib
+aaa_elflibs|expat,aaa_elflibs|libffi,aaa_elflibs|pcre,aaa_elflibs|zlib,dbus,elogind,glib2,libcap,util-linux

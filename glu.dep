@@ -1,1 +1,1 @@
-expat,gcc,gcc-g++,libX11,libXau,libXdamage,libXdmcp,libXext,libXfixes,libXxf86vm,libdrm,libxcb,libxshmfence,mesa
+aaa_elflibs|gcc,aaa_elflibs|gcc-g++,libX11,libXau,libXdmcp,libXext,libglvnd,libxcb

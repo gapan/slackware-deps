@@ -1,1 +1,1 @@
-acl,attr,dbus,eudev,gcc,gcc-g++,gmp,gnutls,libffi,libidn,libusb,nettle,p11-kit,zlib
+aaa_elflibs|acl,aaa_elflibs|attr,aaa_elflibs|eudev,aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|gmp,aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|libffi,aaa_elflibs|libidn2,aaa_elflibs|libusb,aaa_elflibs|zlib,dbus,e2fsprogs,elogind,gnutls,libcap,libunistring,nettle,p11-kit,pam

@@ -1,1 +1,1 @@
-expat,libX11,libXau,libXdamage,libXdmcp,libXext,libXfixes,libXi,libXrandr,libXrender,libXxf86vm,libdrm,libxcb,libxshmfence,mesa
+libX11,libXau,libXdmcp,libXext,libXi,libXrandr,libXrender,libXxf86vm,libglvnd,libxcb

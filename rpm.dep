@@ -1,1 +1,1 @@
-acl,attr,bzip2,db48,dbus,elfutils,file,libarchive,libxml2,lzo,mozilla-nss,nettle,popt,python,xz,zlib
+aaa_elflibs|acl,aaa_elflibs|attr,aaa_elflibs|bzip2,aaa_elflibs|db48,aaa_elflibs|elfutils,aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|popt,aaa_elflibs|xz,aaa_elflibs|zlib,dbus,elfutils,elogind,file,icu4c,libarchive,libcap,libgcrypt,libgpg-error,libxml2,lz4,openssl|openssl-solibs,sqlite,zstd

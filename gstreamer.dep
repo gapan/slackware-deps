@@ -1,1 +1,1 @@
-attr,glib2,libcap,libffi,zlib
+aaa_elflibs|bzip2,aaa_elflibs|elfutils,aaa_elflibs|gcc,aaa_elflibs|libffi,aaa_elflibs|pcre,aaa_elflibs|xz,aaa_elflibs|zlib,elfutils,glib2,libcap,libunwind,util-linux,zstd

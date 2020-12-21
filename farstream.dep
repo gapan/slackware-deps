@@ -1,0 +1,1 @@
+aaa_elflibs|bzip2,aaa_elflibs|elfutils,aaa_elflibs|gcc,aaa_elflibs|gmp,aaa_elflibs|libffi,aaa_elflibs|libidn2,aaa_elflibs|pcre,aaa_elflibs|xz,aaa_elflibs|zlib,elfutils,glib2,gnutls,gst-plugins-base,gstreamer,libnice,libunistring,libunwind,nettle,p11-kit,util-linux,zstd

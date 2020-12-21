@@ -1,1 +1,1 @@
-gdbm,openssl|openssl-solibs
+aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|gdbm,aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|libnsl,aaa_elflibs|openldap,aaa_elflibs|zlib,e2fsprogs,icu4c,libtirpc,mariadb,openssl|openssl-solibs,pam,sqlite

@@ -1,1 +1,1 @@
-bzip2,expat,fontconfig,freetype,glib2,harfbuzz,libX11,libXau,libXdmcp,libXpm,libjpeg-turbo,libpng,libtiff,libxcb,xz,zlib
+aaa_elflibs|bzip2,aaa_elflibs|libjpeg-turbo,aaa_elflibs|libpng,aaa_elflibs|pcre,aaa_elflibs|xz,aaa_elflibs|zlib,brotli,fontconfig,freetype,glib2,graphite2,harfbuzz,libX11,libXau,libXdmcp,libXpm,libtiff,libwebp,libxcb,libxml2,zstd

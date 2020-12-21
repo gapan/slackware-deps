@@ -1,0 +1,1 @@
+aaa_elflibs|bzip2,aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|libpng,aaa_elflibs|pcre,aaa_elflibs|xz,aaa_elflibs|zlib,dbus,elogind,gamin,glib2,icu4c,karchive,kconfig,kcoreaddons,kdbusaddons,ki18n,kservice,libX11,libXau,libXdmcp,libXext,libcap,libglvnd,libxcb,pcre2,qt5,zstd

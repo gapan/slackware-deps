@@ -1,1 +1,1 @@
-bzip2,expat,fontconfig,freetype,glib2,harfbuzz,libX11,libXScrnSaver,libXau,libXdmcp,libXext,libXft,libXrender,libpng,libxcb,tcl,tk,zlib
+aaa_elflibs|zlib,tcl

@@ -1,1 +1,1 @@
-gcc,gcc-g++,libffi,ncurses,zlib
+aaa_elflibs|elfutils,aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|libffi,aaa_elflibs|ncurses,aaa_elflibs|xz,aaa_elflibs|zlib,libedit,libxml2,python3

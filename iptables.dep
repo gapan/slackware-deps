@@ -1,1 +1,1 @@
-dbus,eudev,libmnl,libnetfilter_conntrack,libnfnetlink,libnl3,libpcap,libusb
+dbus,elogind,libcap,libmnl,libnetfilter_conntrack,libnfnetlink,libnftnl,libnl3,libpcap

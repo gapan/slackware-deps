@@ -1,1 +1,1 @@
-bzip2,curl,cyrus-sasl,eudev,libidn,libssh2,libtermcap,libusb,libusb-compat,openldap-client,openssl|openssl-solibs,readline,zlib
+aaa_elflibs|bzip2,aaa_elflibs|curl,aaa_elflibs|eudev,aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|libidn2,aaa_elflibs|libnsl,aaa_elflibs|libpsl,aaa_elflibs|libssh2,aaa_elflibs|libusb,aaa_elflibs|libusb-compat,aaa_elflibs|ncurses,aaa_elflibs|openldap,aaa_elflibs|readline,aaa_elflibs|zlib,brotli,cyrus-sasl,e2fsprogs,libtirpc,libunistring,nghttp2,openssl|openssl-solibs,zstd

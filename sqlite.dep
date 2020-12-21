@@ -1,1 +1,1 @@
-gcc,gcc-g++,icu4c,ncurses,readline
+aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|ncurses,aaa_elflibs|zlib,icu4c,libedit

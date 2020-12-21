@@ -1,1 +1,1 @@
-acl,attr,bzip2,libxml2,lzo,nettle,xz,zlib
+aaa_elflibs|acl,aaa_elflibs|attr,aaa_elflibs|bzip2,aaa_elflibs|xz,aaa_elflibs|zlib,libxml2,lz4,openssl|openssl-solibs,zstd

@@ -1,1 +1,1 @@
-bzip2,glib2,harfbuzz,libpng,zlib
+aaa_elflibs|bzip2,aaa_elflibs|libpng,aaa_elflibs|pcre,aaa_elflibs|zlib,brotli,glib2,graphite2,harfbuzz

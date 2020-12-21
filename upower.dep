@@ -1,1 +1,1 @@
-dbus,dbus-glib,eudev,glib2,libffi,libgudev,libimobiledevice,libplist,libusb,libusbmuxd,libxml2,openssl|openssl-solibs,polkit,xz,zlib
+aaa_elflibs|eudev,aaa_elflibs|libffi,aaa_elflibs|libusb,aaa_elflibs|pcre,aaa_elflibs|zlib,glib2,libgudev,libimobiledevice,libplist,libusbmuxd,openssl|openssl-solibs,util-linux

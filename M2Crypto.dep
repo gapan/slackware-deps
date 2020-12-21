@@ -1,1 +1,1 @@
-openssl|openssl-solibs,python
+aaa_elflibs|zlib,openssl|openssl-solibs,python3

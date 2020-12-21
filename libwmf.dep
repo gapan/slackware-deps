@@ -1,1 +1,1 @@
-bzip2,expat,freetype,gdk-pixbuf2,glib2,harfbuzz,libX11,libXau,libXdmcp,libffi,libjpeg-turbo,libpng,libxcb,zlib
+aaa_elflibs|bzip2,aaa_elflibs|expat,aaa_elflibs|libffi,aaa_elflibs|libjpeg-turbo,aaa_elflibs|libpng,aaa_elflibs|pcre,aaa_elflibs|zlib,brotli,freetype,gdk-pixbuf2,glib2,graphite2,harfbuzz,libX11,libXau,libXdmcp,libxcb,util-linux

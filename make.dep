@@ -1,1 +1,1 @@
-gc,gmp,guile,libffi,libtool,libunistring
+aaa_elflibs|gmp,aaa_elflibs|libffi,aaa_elflibs|libtool,gc,guile,libunistring

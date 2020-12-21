@@ -1,0 +1,1 @@
+aaa_elflibs|alsa-lib,aaa_elflibs|bzip2,aaa_elflibs|elfutils,aaa_elflibs|eudev,aaa_elflibs|gcc,aaa_elflibs|libffi,aaa_elflibs|pcre,aaa_elflibs|xz,aaa_elflibs|zlib,dbus,elfutils,elogind,flac,glib2,gst-plugins-base,gstreamer,libcap,libogg,libsndfile,libunwind,libvorbis,opus,orc,sbc,vulkan-sdk,zstd

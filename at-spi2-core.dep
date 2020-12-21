@@ -1,1 +1,1 @@
-dbus,glib2,libICE,libSM,libX11,libXau,libXdmcp,libXevie,libXext,libXi,libXtst,libffi,libxcb,util-linux,zlib
+aaa_elflibs|libffi,aaa_elflibs|pcre,aaa_elflibs|zlib,dbus,elogind,glib2,libX11,libXau,libXdmcp,libXext,libXi,libXtst,libcap,libxcb,util-linux

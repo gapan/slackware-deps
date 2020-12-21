@@ -1,1 +1,1 @@
-glib2,libX11,libXau,libXdmcp,libffi,libjpeg-turbo,libpng,libtiff,libxcb,xz,zlib
+aaa_elflibs|libffi,aaa_elflibs|libjpeg-turbo,aaa_elflibs|libpng,aaa_elflibs|pcre,aaa_elflibs|xz,aaa_elflibs|zlib,glib2,libtiff,libwebp,util-linux,zstd

@@ -1,1 +1,1 @@
-attr,idnkit,libcap,libtermcap,libxml2,openssl|openssl-solibs,readline,xz,zlib
+aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|libidn2,aaa_elflibs|ncurses,aaa_elflibs|xz,aaa_elflibs|zlib,e2fsprogs,json-c,libcap,libedit,libunistring,libuv,libxml2,lmdb,openssl|openssl-solibs

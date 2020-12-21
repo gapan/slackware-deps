@@ -1,1 +1,1 @@
-libnl3,lm_sensors,openssl|openssl-solibs,perl,python
+aaa_elflibs|eudev,aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|libnsl,aaa_elflibs|ncurses,aaa_elflibs|pcre,aaa_elflibs|zlib,dbus,e2fsprogs,elogind,libcap,libnl3,libpcap,libtirpc,lm_sensors,mariadb,openssl|openssl-solibs,pciutils,perl,python3

@@ -1,1 +1,1 @@
-acl,attr,cups,cyrus-sasl,db48,gmp,gnutls,libffi,libgcrypt,libgpg-error,libidn,nettle,openldap-client,openssl|openssl-solibs,p11-kit,zlib
+aaa_elflibs|acl,aaa_elflibs|attr,aaa_elflibs|db48,aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|libffi,aaa_elflibs|libnsl,aaa_elflibs|openldap,aaa_elflibs|pcre,aaa_elflibs|zlib,cyrus-sasl,dbus,dbus-glib,e2fsprogs,elogind,glib2,libcap,libevent,libgcrypt,libgpg-error,libtirpc,mariadb,openssl|openssl-solibs,pam,util-linux

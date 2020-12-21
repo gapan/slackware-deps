@@ -1,1 +1,1 @@
-gcc,gcc-g++,glib2,gmp,gnutls,js185,libffi,libidn,libproxy,mozilla-nss,nettle,p11-kit,zlib
+aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|gmp,aaa_elflibs|libffi,aaa_elflibs|libidn2,aaa_elflibs|pcre,aaa_elflibs|zlib,glib2,gnutls,libproxy,libunistring,nettle,p11-kit,util-linux

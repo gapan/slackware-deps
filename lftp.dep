@@ -1,1 +1,1 @@
-expat,gcc,gcc-g++,libidn,ncurses,openssl|openssl-solibs,readline,zlib
+aaa_elflibs|expat,aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|libidn2,aaa_elflibs|ncurses,aaa_elflibs|readline,aaa_elflibs|zlib,libunistring,openssl|openssl-solibs

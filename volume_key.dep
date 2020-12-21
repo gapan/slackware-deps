@@ -1,0 +1,1 @@
+aaa_elflibs|argon2,aaa_elflibs|eudev,aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|lvm2,aaa_elflibs|pcre,aaa_elflibs|zlib,cryptsetup,glib2,gpgme,icu4c,json-c,libassuan,libgpg-error,mozilla-nss,openssl|openssl-solibs,python2,sqlite,util-linux

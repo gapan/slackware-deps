@@ -1,1 +1,1 @@
-bzip2,freetype,glib2,harfbuzz,libX11,libXau,libXdmcp,libXext,libXrandr,libXrender,libjpeg-turbo,libpng,libtiff,libxcb,svgalib,xz,zlib
+aaa_elflibs|bzip2,aaa_elflibs|libjpeg-turbo,aaa_elflibs|libpng,aaa_elflibs|pcre,aaa_elflibs|svgalib,aaa_elflibs|xz,aaa_elflibs|zlib,brotli,flac,freetype,glib2,graphite2,harfbuzz,libX11,libXau,libXdmcp,libXext,libXrandr,libXrender,libogg,libtiff,libvorbis,libwebp,libxcb,speex,zstd

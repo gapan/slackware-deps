@@ -1,1 +1,1 @@
-at-spi2-core,atk,dbus,glib2,libICE,libSM,libX11,libXau,libXdmcp,libffi,libxcb,util-linux
+aaa_elflibs|libffi,aaa_elflibs|pcre,at-spi2-core,atk,dbus,elogind,glib2,libX11,libXau,libXdmcp,libcap,libxcb

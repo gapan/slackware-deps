@@ -1,1 +1,1 @@
-eudev,libgcrypt,libgpg-error,lvm2,popt,util-linux
+aaa_elflibs|argon2,aaa_elflibs|eudev,aaa_elflibs|lvm2,aaa_elflibs|popt,aaa_elflibs|zlib,json-c,openssl|openssl-solibs,util-linux

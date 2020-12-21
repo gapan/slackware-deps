@@ -1,1 +1,1 @@
-gamin,libffi,zlib
+aaa_elflibs|elfutils,aaa_elflibs|libffi,aaa_elflibs|pcre,aaa_elflibs|zlib,gamin,util-linux

@@ -1,1 +1,1 @@
-eudev,glib2,libffi,libgudev,libmbim,libqmi,zlib,mobile-broadband-provider-info
+aaa_elflibs|eudev,aaa_elflibs|libffi,aaa_elflibs|pcre,aaa_elflibs|zlib,glib2,libgudev,libmbim,libqmi,util-linux,mobile-broadband-provider-info

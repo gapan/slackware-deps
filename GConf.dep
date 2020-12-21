@@ -1,1 +1,1 @@
-cyrus-sasl,dbus,dbus-glib,glib2,libffi,libxml2,openldap-client,openssl|openssl-solibs,polkit,xz,zlib
+aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|libffi,aaa_elflibs|libnsl,aaa_elflibs|openldap,aaa_elflibs|pcre,aaa_elflibs|xz,aaa_elflibs|zlib,cyrus-sasl,dbus,dbus-glib,e2fsprogs,elogind,glib2,libcap,libtirpc,libxml2,openssl|openssl-solibs,polkit,util-linux

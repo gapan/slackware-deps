@@ -1,1 +1,1 @@
-libX11,libXau,libXcursor,libXdmcp,libXfixes,libXrender,libpng,libxcb,zlib
+aaa_elflibs|libpng,aaa_elflibs|zlib,libX11,libXau,libXcursor,libXdmcp,libXfixes,libXrender,libxcb

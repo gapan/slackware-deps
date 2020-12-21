@@ -1,1 +1,1 @@
-gdk-pixbuf2,glib2,libffi,libpng,zlib
+aaa_elflibs|libffi,aaa_elflibs|pcre,aaa_elflibs|zlib,gdk-pixbuf2,glib2,util-linux
