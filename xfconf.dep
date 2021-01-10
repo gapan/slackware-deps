@@ -1,1 +1,1 @@
-aaa_elflibs|libffi,aaa_elflibs|pcre,aaa_elflibs|zlib,glib2,libxfce4util,util-linux
+aaa_elflibs|glib2,aaa_elflibs|libffi,aaa_elflibs|pcre,aaa_elflibs|zlib,glib2,libxfce4util,util-linux
