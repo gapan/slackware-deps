@@ -1,1 +1,9 @@
-aaa_elflibs|db48,aaa_elflibs|gdbm,aaa_elflibs|gmp,aaa_elflibs|libffi,aaa_elflibs|ncurses,aaa_elflibs|readline,aaa_elflibs|zlib,libyaml,openssl|openssl-solibs
+aaa_libraries|db48
+aaa_libraries|gdbm
+aaa_libraries|gmp
+aaa_libraries|libffi
+aaa_libraries|ncurses
+aaa_libraries|readline
+aaa_libraries|zlib
+libyaml
+openssl|openssl-solibs

@@ -1,1 +1,14 @@
-aaa_elflibs|bzip2,aaa_elflibs|gmp,aaa_elflibs|libffi,aaa_elflibs|libidn2,aaa_elflibs|ncurses,aaa_elflibs|xz,aaa_elflibs|zlib,gnutls,libunistring,libxml2,libzip,nettle,p11-kit
+aaa_libraries|bzip2
+aaa_libraries|gmp
+aaa_libraries|libffi
+aaa_libraries|libidn2
+aaa_libraries|ncurses
+aaa_libraries|xz
+aaa_libraries|zlib
+aaa_libraries|zstd
+gnutls
+libunistring
+libxml2
+libzip
+nettle
+p11-kit

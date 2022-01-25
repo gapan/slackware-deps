@@ -1,1 +1,2 @@
-aaa_elflibs|ncurses,aaa_elflibs|readline
+aaa_libraries|ncurses
+aaa_libraries|readline

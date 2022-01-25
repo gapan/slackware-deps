@@ -1,1 +1,13 @@
-aaa_elflibs|bzip2,aaa_elflibs|eudev,aaa_elflibs|fuse,aaa_elflibs|libpng,aaa_elflibs|lvm2,aaa_elflibs|pcre,aaa_elflibs|xz,aaa_elflibs|zlib,brotli,freetype,glib2,graphite2,harfbuzz,util-linux
+aaa_libraries|bzip2
+aaa_libraries|eudev
+aaa_libraries|fuse
+aaa_libraries|glib2
+aaa_libraries|libpng
+aaa_libraries|lvm2
+aaa_libraries|pcre
+aaa_libraries|xz
+aaa_libraries|zlib
+brotli
+freetype
+graphite2
+harfbuzz

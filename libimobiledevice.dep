@@ -1,1 +1,6 @@
-aaa_elflibs|zlib,libplist,libusbmuxd,openssl|openssl-solibs,python3
+aaa_libraries|zlib
+libimobiledevice-glue
+libplist
+libusbmuxd
+openssl|openssl-solibs
+python3

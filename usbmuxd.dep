@@ -1,1 +1,8 @@
-aaa_elflibs|eudev,aaa_elflibs|libusb,aaa_elflibs|zlib,libimobiledevice,libplist,libusbmuxd,openssl|openssl-solibs
+aaa_libraries|eudev
+aaa_libraries|libusb
+aaa_libraries|zlib
+libimobiledevice
+libimobiledevice-glue
+libplist
+libusbmuxd
+openssl|openssl-solibs

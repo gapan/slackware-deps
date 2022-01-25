@@ -1,1 +1,15 @@
-aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|libidn2,aaa_elflibs|ncurses,aaa_elflibs|xz,aaa_elflibs|zlib,e2fsprogs,json-c,libcap,libedit,libunistring,libuv,libxml2,lmdb,openssl|openssl-solibs
+aaa_libraries|keyutils
+aaa_libraries|krb5
+aaa_libraries|libcap
+aaa_libraries|libidn2
+aaa_libraries|ncurses
+aaa_libraries|xz
+aaa_libraries|zlib
+e2fsprogs
+json-c
+libedit
+libunistring
+libuv
+libxml2
+lmdb
+openssl|openssl-solibs

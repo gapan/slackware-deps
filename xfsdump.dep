@@ -1,1 +1,4 @@
-aaa_elflibs|attr,aaa_elflibs|ncurses,util-linux,xfsprogs
+aaa_libraries|attr
+aaa_libraries|ncurses
+util-linux
+xfsprogs

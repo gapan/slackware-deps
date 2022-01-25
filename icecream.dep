@@ -1,1 +1,14 @@
-aaa_elflibs|acl,aaa_elflibs|attr,aaa_elflibs|bzip2,aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|xz,aaa_elflibs|zlib,libarchive,libcap-ng,libxml2,lz4,lzo,openssl|openssl-solibs,zstd
+aaa_libraries|acl
+aaa_libraries|attr
+aaa_libraries|bzip2
+aaa_libraries|gcc
+aaa_libraries|gcc-g++
+aaa_libraries|xz
+aaa_libraries|zlib
+aaa_libraries|zstd
+libarchive
+libcap-ng
+libxml2
+lz4
+lzo
+openssl|openssl-solibs

@@ -1,1 +1,8 @@
-aaa_elflibs|eudev,aaa_elflibs|libpng,aaa_elflibs|libusb,aaa_elflibs|libusb-compat,aaa_elflibs|ncurses,aaa_elflibs|popt,aaa_elflibs|readline,aaa_elflibs|zlib,bluez,python2
+aaa_libraries|libpng
+aaa_libraries|libusb-compat
+aaa_libraries|ncurses
+aaa_libraries|popt
+aaa_libraries|readline
+aaa_libraries|zlib
+bluez
+python2

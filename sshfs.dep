@@ -1,1 +1,3 @@
-aaa_elflibs|pcre,fuse3,glib2
+aaa_libraries|glib2
+aaa_libraries|pcre
+fuse3

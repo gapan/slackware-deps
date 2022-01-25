@@ -1,1 +1,6 @@
-aaa_elflibs|alsa-lib,aaa_elflibs|gcc,aaa_elflibs|gcc-g++,audiofile,flac,libogg
+aaa_libraries|alsa-lib
+aaa_libraries|gcc
+aaa_libraries|gcc-g++
+audiofile
+flac
+libogg

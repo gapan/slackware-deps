@@ -1,1 +1,11 @@
-aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|libffi,aaa_elflibs|pcre,aaa_elflibs|zlib,glib2,json-glib,libgee,marisa,util-linux
+aaa_libraries|gcc
+aaa_libraries|gcc-g++
+aaa_libraries|glib2
+aaa_libraries|libffi
+aaa_libraries|pcre
+aaa_libraries|zlib
+glib2
+json-glib
+libgee
+marisa
+util-linux

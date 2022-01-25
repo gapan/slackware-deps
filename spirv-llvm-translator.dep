@@ -1,0 +1,5 @@
+aaa_libraries|gcc
+aaa_libraries|gcc-g++
+aaa_libraries|ncurses
+aaa_libraries|zlib
+llvm

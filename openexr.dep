@@ -1,1 +1,6 @@
-aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|zlib,boost,python2,python3
+aaa_libraries|gcc
+aaa_libraries|gcc-g++
+aaa_libraries|zlib
+boost
+python2
+python3

@@ -1,1 +1,10 @@
-aaa_elflibs|gmp,aaa_elflibs|libidn2,dbus,elogind,libcap,libmnl,libnetfilter_conntrack,libnfnetlink,libunistring,nettle
+aaa_libraries|gmp
+aaa_libraries|libcap
+aaa_libraries|libidn2
+dbus
+elogind
+libmnl
+libnetfilter_conntrack
+libnfnetlink
+libunistring
+nettle

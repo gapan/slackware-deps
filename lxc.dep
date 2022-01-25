@@ -1,1 +1,6 @@
-aaa_elflibs|gmp,aaa_elflibs|libffi,aaa_elflibs|libidn2,gnutls,libcap,libunistring,nettle,p11-kit
+aaa_libraries|gcc
+aaa_libraries|libcap
+aaa_libraries|zlib
+libseccomp
+openssl|openssl-solibs
+pam

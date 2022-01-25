@@ -1,1 +1,7 @@
-aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|gmp,aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|libffi,aaa_elflibs|libidn2,aaa_elflibs|xz,aaa_elflibs|zlib,e2fsprogs,gnutls,icu4c,libcap-ng,libunistring,libunwind,nettle,p11-kit,pam,samba,talloc,tevent
+aaa_libraries|keyutils
+aaa_libraries|krb5
+e2fsprogs
+libcap-ng
+pam
+samba
+talloc

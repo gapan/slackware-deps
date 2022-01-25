@@ -1,1 +1,6 @@
-aaa_elflibs|xz,aaa_elflibs|zlib,libgcrypt,libgpg-error,libxml2,python2
+aaa_libraries|xz
+aaa_libraries|zlib
+libgcrypt
+libgpg-error
+libxml2
+python2

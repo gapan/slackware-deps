@@ -1,1 +1,8 @@
-aaa_elflibs|libffi,aaa_elflibs|pcre,dbus,elogind,glib2,libcap,libgcrypt,libgpg-error
+aaa_libraries|glib2
+aaa_libraries|libcap
+aaa_libraries|libffi
+aaa_libraries|pcre
+dbus
+elogind
+libgcrypt
+libgpg-error

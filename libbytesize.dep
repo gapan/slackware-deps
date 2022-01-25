@@ -1,1 +1,3 @@
-aaa_elflibs|gmp,aaa_elflibs|mpfr,aaa_elflibs|pcre2
+aaa_libraries|gmp
+aaa_libraries|mpfr
+aaa_libraries|pcre2

@@ -1,1 +1,6 @@
-aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|zlib,e2fsprogs,libgcrypt,libgpg-error
+aaa_libraries|keyutils
+aaa_libraries|krb5
+aaa_libraries|zlib
+e2fsprogs
+libgcrypt
+libgpg-error

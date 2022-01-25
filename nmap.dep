@@ -1,1 +1,7 @@
-aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|libssh2,aaa_elflibs|pcre,aaa_elflibs|zlib,libnl,openssl|openssl-solibs
+aaa_libraries|gcc
+aaa_libraries|gcc-g++
+aaa_libraries|libssh2
+aaa_libraries|pcre
+aaa_libraries|zlib
+libnl
+openssl|openssl-solibs

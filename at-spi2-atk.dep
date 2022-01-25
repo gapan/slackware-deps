@@ -1,1 +1,14 @@
-aaa_elflibs|libffi,aaa_elflibs|pcre,at-spi2-core,atk,dbus,elogind,glib2,libX11,libXau,libXdmcp,libcap,libxcb
+aaa_libraries|glib2
+aaa_libraries|libcap
+aaa_libraries|libffi
+aaa_libraries|pcre
+at-spi2-core
+atk
+dbus
+elogind
+libX11
+libXau
+libXdmcp
+libXext
+libXi
+libxcb

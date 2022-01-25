@@ -1,1 +1,13 @@
-aaa_elflibs|db48,aaa_elflibs|eudev,aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|ncurses,aaa_elflibs|pcre,aaa_elflibs|readline,dbus,elogind,glib2,icu4c,libcap,libical
+aaa_libraries|db48
+aaa_libraries|eudev
+aaa_libraries|gcc
+aaa_libraries|gcc-g++
+aaa_libraries|glib2
+aaa_libraries|libcap
+aaa_libraries|ncurses
+aaa_libraries|pcre
+aaa_libraries|readline
+dbus
+elogind
+icu4c
+libical

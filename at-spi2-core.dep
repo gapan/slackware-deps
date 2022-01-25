@@ -1,1 +1,16 @@
-aaa_elflibs|libffi,aaa_elflibs|pcre,aaa_elflibs|zlib,dbus,elogind,glib2,libX11,libXau,libXdmcp,libXext,libXi,libXtst,libcap,libxcb,util-linux
+aaa_libraries|glib2
+aaa_libraries|libcap
+aaa_libraries|libffi
+aaa_libraries|pcre
+aaa_libraries|zlib
+dbus
+elogind
+glib2
+libX11
+libXau
+libXdmcp
+libXext
+libXi
+libXtst
+libxcb
+util-linux

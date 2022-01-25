@@ -1,1 +1,7 @@
-aaa_elflibs|gcc,aaa_elflibs|gcc-g++,lame,libao,libmad,libogg,libvorbis
+aaa_libraries|gcc
+aaa_libraries|gcc-g++
+lame
+libao
+libmad
+libogg
+libvorbis

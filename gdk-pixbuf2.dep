@@ -1,1 +1,12 @@
-aaa_elflibs|libffi,aaa_elflibs|libjpeg-turbo,aaa_elflibs|libpng,aaa_elflibs|pcre,aaa_elflibs|xz,aaa_elflibs|zlib,glib2,libtiff,libwebp,util-linux,zstd
+aaa_libraries|glib2
+aaa_libraries|libffi
+aaa_libraries|libjpeg-turbo
+aaa_libraries|libpng
+aaa_libraries|libtiff
+aaa_libraries|pcre
+aaa_libraries|xz
+aaa_libraries|zlib
+aaa_libraries|zstd
+glib2
+libwebp
+util-linux

@@ -1,1 +1,10 @@
-aaa_elflibs|libffi,libX11,libXau,libXdmcp,libXext,libXfixes,libdrm,libglvnd,libxcb,wayland
+aaa_libraries|libffi
+libX11
+libXau
+libXdmcp
+libXext
+libXfixes
+libdrm
+libglvnd
+libxcb
+wayland

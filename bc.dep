@@ -1,1 +1,3 @@
-aaa_elflibs|ncurses,aaa_elflibs|readline,flex
+aaa_libraries|ncurses
+aaa_libraries|readline
+flex

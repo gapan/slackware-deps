@@ -1,1 +1,6 @@
-libXau,libXdmcp,libxcb,xcb-util,xcb-util-image,xcb-util-renderutil
+libXau
+libXdmcp
+libxcb
+xcb-util
+xcb-util-image
+xcb-util-renderutil

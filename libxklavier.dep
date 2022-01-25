@@ -1,1 +1,13 @@
-aaa_elflibs|libffi,aaa_elflibs|pcre,aaa_elflibs|xz,aaa_elflibs|zlib,glib2,libX11,libXau,libXdmcp,libXext,libXi,libxcb,libxkbfile,libxml2
+aaa_libraries|glib2
+aaa_libraries|libffi
+aaa_libraries|pcre
+aaa_libraries|xz
+aaa_libraries|zlib
+libX11
+libXau
+libXdmcp
+libXext
+libXi
+libxcb
+libxkbfile
+libxml2

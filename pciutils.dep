@@ -1,1 +1,6 @@
-aaa_elflibs|eudev,aaa_elflibs|xz,aaa_elflibs|zlib,kmod,openssl|openssl-solibs
+aaa_libraries|eudev
+aaa_libraries|xz
+aaa_libraries|zlib
+aaa_libraries|zstd
+kmod
+openssl|openssl-solibs

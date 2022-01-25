@@ -1,1 +1,3 @@
-aaa_elflibs|xz,aaa_elflibs|zlib,python2
+aaa_libraries|xz
+aaa_libraries|zlib
+python2

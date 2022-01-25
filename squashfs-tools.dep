@@ -1,1 +1,5 @@
-aaa_elflibs|xz,aaa_elflibs|zlib,lz4,lzo,zstd
+aaa_libraries|xz
+aaa_libraries|zlib
+aaa_libraries|zstd
+lz4
+lzo

@@ -1,1 +1,6 @@
-libX11,libXau,libXdmcp,libXfixes,libXrender,libxcb
+libX11
+libXau
+libXdmcp
+libXfixes
+libXrender
+libxcb

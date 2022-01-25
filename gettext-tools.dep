@@ -1,1 +1,9 @@
-aaa_elflibs|acl,aaa_elflibs|attr,aaa_elflibs|gcc,aaa_elflibs|ncurses,aaa_elflibs|xz,aaa_elflibs|zlib,gettext,libunistring,libxml2
+aaa_libraries|acl
+aaa_libraries|attr
+aaa_libraries|gcc
+aaa_libraries|ncurses
+aaa_libraries|xz
+aaa_libraries|zlib
+gettext
+libunistring
+libxml2

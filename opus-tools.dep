@@ -1,1 +1,7 @@
-aaa_elflibs|zlib,flac,libogg,libopusenc,openssl|openssl-solibs,opus,opusfile
+aaa_libraries|zlib
+flac
+libogg
+libopusenc
+openssl|openssl-solibs
+opus
+opusfile

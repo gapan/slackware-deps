@@ -1,1 +1,13 @@
-aaa_elflibs|libffi,aaa_elflibs|pcre,aaa_elflibs|zlib,gdk-pixbuf2,glib2,libX11,libXau,libXdmcp,libxcb,util-linux
+aaa_libraries|glib2
+aaa_libraries|libffi
+aaa_libraries|libjpeg-turbo
+aaa_libraries|libpng
+aaa_libraries|pcre
+aaa_libraries|zlib
+gdk-pixbuf2
+glib2
+libX11
+libXau
+libXdmcp
+libxcb
+util-linux

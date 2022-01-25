@@ -1,1 +1,13 @@
-aaa_elflibs|eudev,aaa_elflibs|libffi,aaa_elflibs|libusb,aaa_elflibs|pcre,aaa_elflibs|zlib,glib2,libgudev,libimobiledevice,libplist,libusbmuxd,openssl|openssl-solibs,util-linux
+aaa_libraries|eudev
+aaa_libraries|glib2
+aaa_libraries|libffi
+aaa_libraries|pcre
+aaa_libraries|zlib
+glib2
+libgudev
+libimobiledevice
+libimobiledevice-glue
+libplist
+libusbmuxd
+openssl|openssl-solibs
+util-linux

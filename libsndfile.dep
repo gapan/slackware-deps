@@ -1,1 +1,5 @@
-aaa_elflibs|alsa-lib,flac,libogg,libvorbis,opus
+aaa_libraries|alsa-lib
+flac
+libogg
+libvorbis
+opus

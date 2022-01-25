@@ -1,1 +1,5 @@
-aaa_elflibs|gmp,aaa_elflibs|libsigsegv,aaa_elflibs|mpfr,aaa_elflibs|ncurses,aaa_elflibs|readline
+aaa_libraries|gmp
+aaa_libraries|libsigsegv
+aaa_libraries|mpfr
+aaa_libraries|ncurses
+aaa_libraries|readline

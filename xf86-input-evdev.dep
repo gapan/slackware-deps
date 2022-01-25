@@ -1,1 +1,3 @@
-aaa_elflibs|eudev,libevdev,mtdev
+aaa_libraries|eudev
+libevdev
+mtdev

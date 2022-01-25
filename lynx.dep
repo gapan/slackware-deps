@@ -1,1 +1,6 @@
-aaa_elflibs|bzip2,aaa_elflibs|libidn,aaa_elflibs|ncurses,aaa_elflibs|zlib,openssl|openssl-solibs
+aaa_libraries|bzip2
+aaa_libraries|libidn2
+aaa_libraries|ncurses
+aaa_libraries|zlib
+libunistring
+openssl|openssl-solibs

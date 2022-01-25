@@ -1,1 +1,16 @@
-aaa_elflibs|zlib,libICE,libSM,libX11,libXau,libXaw,libXdmcp,libXext,libXmu,libXpm,libXt,libxcb,openssl|openssl-solibs,util-linux
+aaa_libraries|ncurses
+aaa_libraries|readline
+aaa_libraries|zlib
+libICE
+libSM
+libX11
+libXau
+libXaw
+libXdmcp
+libXext
+libXmu
+libXpm
+libXt
+libxcb
+openssl|openssl-solibs
+util-linux

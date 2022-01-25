@@ -1,1 +1,10 @@
-aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|libnsl,aaa_elflibs|zlib,e2fsprogs,libtirpc,lz4,lzo,openssl|openssl-solibs,pam
+aaa_libraries|keyutils
+aaa_libraries|krb5
+aaa_libraries|libnsl
+aaa_libraries|libtirpc
+aaa_libraries|zlib
+e2fsprogs
+lz4
+lzo
+openssl|openssl-solibs
+pam

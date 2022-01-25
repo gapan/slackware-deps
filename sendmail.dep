@@ -1,0 +1,12 @@
+aaa_libraries|db48
+aaa_libraries|gcc
+aaa_libraries|gcc-g++
+aaa_libraries|keyutils
+aaa_libraries|krb5
+aaa_libraries|libnsl
+aaa_libraries|libtirpc
+aaa_libraries|zlib
+cyrus-sasl
+e2fsprogs
+icu4c
+openssl|openssl-solibs

@@ -1,1 +1,7 @@
-aaa_elflibs|libidn2,aaa_elflibs|libpsl,aaa_elflibs|pcre2,aaa_elflibs|zlib,libunistring,openssl|openssl-solibs,util-linux
+aaa_libraries|libidn2
+aaa_libraries|libpsl
+aaa_libraries|pcre2
+aaa_libraries|zlib
+libunistring
+openssl|openssl-solibs
+util-linux

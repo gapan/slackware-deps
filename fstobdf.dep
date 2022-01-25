@@ -1,1 +1,5 @@
-libFS,libX11,libXau,libXdmcp,libxcb
+libFS
+libX11
+libXau
+libXdmcp
+libxcb

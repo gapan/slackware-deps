@@ -1,1 +1,4 @@
-aaa_elflibs|keyutils,aaa_elflibs|krb5,e2fsprogs,libtirpc
+aaa_libraries|keyutils
+aaa_libraries|krb5
+aaa_libraries|libtirpc
+e2fsprogs

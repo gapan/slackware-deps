@@ -1,1 +1,5 @@
-aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|ncurses,aaa_elflibs|readline,aaa_elflibs|zlib
+aaa_libraries|gcc
+aaa_libraries|gcc-g++
+aaa_libraries|ncurses
+aaa_libraries|readline
+aaa_libraries|zlib

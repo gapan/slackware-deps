@@ -1,1 +1,3 @@
-aaa_elflibs|libidn2,libunistring
+aaa_libraries
+aaa_libraries|libidn2
+libunistring

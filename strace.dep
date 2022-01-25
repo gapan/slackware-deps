@@ -1,1 +1,6 @@
-aaa_elflibs|bzip2,aaa_elflibs|elfutils,aaa_elflibs|xz,aaa_elflibs|zlib,elfutils,zstd
+aaa_libraries|bzip2
+aaa_libraries|elfutils
+aaa_libraries|xz
+aaa_libraries|zlib
+aaa_libraries|zstd
+elfutils

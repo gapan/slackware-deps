@@ -1,1 +1,10 @@
+glib
+gtk+
+libX11
+libXau
+libXdmcp
+libXext
+libXi
 libmad
+libxcb
+xmms

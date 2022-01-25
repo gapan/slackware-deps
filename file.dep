@@ -1,1 +1,3 @@
-aaa_elflibs|bzip2,aaa_elflibs|xz,aaa_elflibs|zlib
+aaa_libraries|bzip2
+aaa_libraries|xz
+aaa_libraries|zlib

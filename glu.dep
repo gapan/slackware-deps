@@ -1,1 +1,8 @@
-aaa_elflibs|gcc,aaa_elflibs|gcc-g++,libX11,libXau,libXdmcp,libXext,libglvnd,libxcb
+aaa_libraries|gcc
+aaa_libraries|gcc-g++
+libX11
+libXau
+libXdmcp
+libXext
+libglvnd
+libxcb

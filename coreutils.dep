@@ -1,1 +1,4 @@
-aaa_elflibs|acl,aaa_elflibs|attr,libcap
+aaa_libraries|acl
+aaa_libraries|attr
+aaa_libraries|gmp
+aaa_libraries|libcap

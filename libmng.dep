@@ -1,1 +1,3 @@
-aaa_elflibs|libjpeg-turbo,aaa_elflibs|zlib,lcms2
+aaa_libraries|libjpeg-turbo
+aaa_libraries|zlib
+lcms2

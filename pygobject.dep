@@ -1,1 +1,6 @@
-aaa_elflibs|libffi,aaa_elflibs|pcre,aaa_elflibs|zlib,glib2,util-linux
+aaa_libraries|glib2
+aaa_libraries|libffi
+aaa_libraries|pcre
+aaa_libraries|zlib
+glib2
+util-linux

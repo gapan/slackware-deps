@@ -1,1 +1,5 @@
-aaa_elflibs|pcre,dbus,elogind,glib2,libcap
+aaa_libraries|glib2
+aaa_libraries|libcap
+aaa_libraries|pcre
+dbus
+elogind

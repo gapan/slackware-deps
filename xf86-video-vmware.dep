@@ -1,1 +1,10 @@
-aaa_elflibs|eudev,aaa_elflibs|expat,aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|ncurses,aaa_elflibs|zlib,libdrm,llvm,mesa,zstd
+aaa_libraries|eudev
+aaa_libraries|expat
+aaa_libraries|gcc
+aaa_libraries|gcc-g++
+aaa_libraries|ncurses
+aaa_libraries|zlib
+aaa_libraries|zstd
+libdrm
+llvm
+mesa

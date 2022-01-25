@@ -1,1 +1,11 @@
-aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|pcre,aaa_elflibs|zlib,gamin,glib2,icu4c,kcoreaddons,ki18n,pcre2,qt5,zstd
+aaa_libraries|gcc
+aaa_libraries|gcc-g++
+aaa_libraries|glib2
+aaa_libraries|pcre
+aaa_libraries|zlib
+aaa_libraries|zstd
+icu4c
+kcoreaddons
+ki18n
+pcre2
+qt5

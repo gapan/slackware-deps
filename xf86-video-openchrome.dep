@@ -1,1 +1,9 @@
-aaa_elflibs|eudev,libX11,libXau,libXdmcp,libXext,libXv,libXvMC,libdrm,libxcb
+aaa_libraries|eudev
+libX11
+libXau
+libXdmcp
+libXext
+libXv
+libXvMC
+libdrm
+libxcb

@@ -1,1 +1,3 @@
-aaa_elflibs|zlib,libpciaccess,libx86
+aaa_libraries|zlib
+libpciaccess
+libx86

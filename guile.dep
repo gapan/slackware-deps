@@ -1,1 +1,6 @@
-aaa_elflibs|gmp,aaa_elflibs|libffi,aaa_elflibs|libtool,aaa_elflibs|ncurses,aaa_elflibs|readline,gc,libunistring
+aaa_libraries|gmp
+aaa_libraries|libffi
+aaa_libraries|ncurses
+aaa_libraries|readline
+gc
+libunistring

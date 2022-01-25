@@ -1,1 +1,3 @@
-aaa_elflibs|ncurses,pam,utempter
+aaa_libraries|ncurses
+pam
+utempter

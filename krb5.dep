@@ -1,1 +1,10 @@
-aaa_elflibs|keyutils,aaa_elflibs|libnsl,aaa_elflibs|openldap,aaa_elflibs|zlib,cyrus-sasl,e2fsprogs,libtirpc,lmdb,openssl|openssl-solibs
+aaa_libraries
+aaa_libraries|keyutils
+aaa_libraries|libnsl
+aaa_libraries|libtirpc
+aaa_libraries|openldap
+aaa_libraries|zlib
+cyrus-sasl
+e2fsprogs
+lmdb
+openssl|openssl-solibs

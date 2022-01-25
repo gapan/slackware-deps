@@ -1,1 +1,5 @@
-aaa_elflibs|eudev,aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|libusb,aaa_elflibs|libusb-compat,aaa_elflibs|zlib,taglib
+aaa_libraries|gcc
+aaa_libraries|gcc-g++
+aaa_libraries|libusb-compat
+aaa_libraries|zlib
+taglib

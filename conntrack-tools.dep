@@ -1,1 +1,6 @@
-libmnl,libnetfilter_conntrack,libnetfilter_cthelper,libnetfilter_cttimeout,libnetfilter_queue,libnfnetlink
+libmnl
+libnetfilter_conntrack
+libnetfilter_cthelper
+libnetfilter_cttimeout
+libnetfilter_queue
+libnfnetlink

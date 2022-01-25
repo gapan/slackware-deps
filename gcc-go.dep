@@ -1,1 +1,7 @@
-aaa_elflibs|gcc,aaa_elflibs|gmp,aaa_elflibs|isl,aaa_elflibs|libmpc,aaa_elflibs|mpfr,aaa_elflibs|zlib,zstd
+aaa_libraries|gcc
+aaa_libraries|gmp
+aaa_libraries|isl
+aaa_libraries|libmpc
+aaa_libraries|mpfr
+aaa_libraries|zlib
+aaa_libraries|zstd

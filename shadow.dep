@@ -1,1 +1,3 @@
-aaa_elflibs|acl,aaa_elflibs|attr,pam
+aaa_libraries|acl
+aaa_libraries|attr
+pam

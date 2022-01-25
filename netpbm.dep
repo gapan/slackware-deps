@@ -1,1 +1,13 @@
-aaa_elflibs|libjpeg-turbo,aaa_elflibs|libpng,aaa_elflibs|svgalib,aaa_elflibs|xz,aaa_elflibs|zlib,libX11,libXau,libXdmcp,libtiff,libwebp,libxcb,libxml2,zstd
+aaa_libraries|libjpeg-turbo
+aaa_libraries|libpng
+aaa_libraries|libtiff
+aaa_libraries|svgalib
+aaa_libraries|xz
+aaa_libraries|zlib
+aaa_libraries|zstd
+libX11
+libXau
+libXdmcp
+libwebp
+libxcb
+libxml2

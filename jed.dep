@@ -1,1 +1,3 @@
-aaa_elflibs|gpm,aaa_elflibs|ncurses,aaa_elflibs|slang
+aaa_libraries|gpm
+aaa_libraries|ncurses
+aaa_libraries|slang

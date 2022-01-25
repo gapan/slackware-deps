@@ -1,1 +1,4 @@
-aaa_elflibs|gcc,aaa_elflibs|gcc-g++,flac,libogg
+aaa_libraries|gcc
+aaa_libraries|gcc-g++
+flac
+libogg

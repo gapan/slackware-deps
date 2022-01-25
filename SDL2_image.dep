@@ -1,1 +1,8 @@
-SDL2,aaa_elflibs|libjpeg-turbo,aaa_elflibs|libpng,aaa_elflibs|xz,aaa_elflibs|zlib,libtiff,libwebp,zstd
+SDL2
+aaa_libraries|libjpeg-turbo
+aaa_libraries|libpng
+aaa_libraries|libtiff
+aaa_libraries|xz
+aaa_libraries|zlib
+aaa_libraries|zstd
+libwebp

@@ -1,1 +1,7 @@
-aaa_elflibs|ncurses
+aaa_libraries|gcc
+aaa_libraries|libcap
+aaa_libraries|libunwind
+aaa_libraries|ncurses
+aaa_libraries|xz
+aaa_libraries|zlib
+libnl3

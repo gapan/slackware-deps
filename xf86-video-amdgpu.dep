@@ -1,1 +1,8 @@
-aaa_elflibs|eudev,aaa_elflibs|expat,aaa_elflibs|libffi,libdrm,mesa,wayland
+aaa_libraries|eudev
+aaa_libraries|expat
+aaa_libraries|gcc
+aaa_libraries|gcc-g++
+aaa_libraries|libffi
+libdrm
+mesa
+wayland

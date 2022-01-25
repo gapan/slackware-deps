@@ -1,0 +1,8 @@
+aaa_libraries|glib2
+aaa_libraries|libffi
+aaa_libraries|ncurses
+aaa_libraries|pcre
+aaa_libraries|xz
+aaa_libraries|zlib
+libxml2
+python2

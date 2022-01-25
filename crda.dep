@@ -1,1 +1,3 @@
-libgcrypt,libgpg-error,libnl3
+libgcrypt
+libgpg-error
+libnl3

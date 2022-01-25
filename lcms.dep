@@ -1,1 +1,6 @@
-aaa_elflibs|libjpeg-turbo,aaa_elflibs|xz,aaa_elflibs|zlib,libtiff,libwebp,zstd
+aaa_libraries|libjpeg-turbo
+aaa_libraries|libtiff
+aaa_libraries|xz
+aaa_libraries|zlib
+aaa_libraries|zstd
+libwebp

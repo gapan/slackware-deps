@@ -1,1 +1,14 @@
-aaa_elflibs|argon2,aaa_elflibs|eudev,aaa_elflibs|lvm2,aaa_elflibs|popt,aaa_elflibs|zlib,json-c,openssl|openssl-solibs,util-linux
+aaa_libraries|argon2
+aaa_libraries|eudev
+aaa_libraries|keyutils
+aaa_libraries|krb5
+aaa_libraries|lvm2
+aaa_libraries|popt
+aaa_libraries|zlib
+e2fsprogs
+json-c
+libgcrypt
+libgpg-error
+libssh
+openssl|openssl-solibs
+util-linux

@@ -1,1 +1,2 @@
-libmnl,libnetfilter_acct
+libmnl
+libnetfilter_acct

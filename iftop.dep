@@ -1,1 +1,6 @@
-aaa_elflibs|ncurses,dbus,elogind,libcap,libnl3,libpcap
+aaa_libraries|libcap
+aaa_libraries|ncurses
+dbus
+elogind
+libnl3
+libpcap

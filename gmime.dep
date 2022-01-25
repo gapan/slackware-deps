@@ -1,1 +1,16 @@
-aaa_elflibs|keyutils,aaa_elflibs|krb5,aaa_elflibs|libffi,aaa_elflibs|libidn2,aaa_elflibs|libnsl,aaa_elflibs|pcre,aaa_elflibs|zlib,e2fsprogs,glib2,gpgme,libassuan,libgpg-error,libtirpc,libunistring,util-linux
+aaa_libraries|glib2
+aaa_libraries|keyutils
+aaa_libraries|krb5
+aaa_libraries|libffi
+aaa_libraries|libidn2
+aaa_libraries|libnsl
+aaa_libraries|libtirpc
+aaa_libraries|pcre
+aaa_libraries|zlib
+e2fsprogs
+glib2
+gpgme
+libassuan
+libgpg-error
+libunistring
+util-linux

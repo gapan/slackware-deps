@@ -1,1 +1,9 @@
-aaa_elflibs|gcc-g++,aaa_elflibs|gmp,aaa_elflibs|isl,aaa_elflibs|libmpc,aaa_elflibs|mpfr,aaa_elflibs|zlib,gcc-go,zstd
+aaa_libraries
+aaa_libraries|gcc-g++
+aaa_libraries|gmp
+aaa_libraries|isl
+aaa_libraries|libmpc
+aaa_libraries|mpfr
+aaa_libraries|zlib
+aaa_libraries|zstd
+gcc-go

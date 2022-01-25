@@ -1,1 +1,3 @@
-aaa_elflibs|eudev,aaa_elflibs|libusb,aaa_elflibs|libusb-compat,aaa_elflibs|ncurses,aaa_elflibs|zlib
+aaa_libraries|libusb-compat
+aaa_libraries|ncurses
+aaa_libraries|zlib

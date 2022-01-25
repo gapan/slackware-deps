@@ -1,1 +1,7 @@
-aaa_elflibs|db48,aaa_elflibs|gmp,aaa_elflibs|ncurses,aaa_elflibs|xz,aaa_elflibs|zlib,json-c,libxml2
+aaa_libraries|db48
+aaa_libraries|gmp
+aaa_libraries|ncurses
+aaa_libraries|xz
+aaa_libraries|zlib
+json-c
+libxml2

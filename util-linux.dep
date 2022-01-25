@@ -1,1 +1,10 @@
-aaa_elflibs|bzip2,aaa_elflibs|eudev,aaa_elflibs|ncurses,aaa_elflibs|pcre2,aaa_elflibs|readline,aaa_elflibs|xz,aaa_elflibs|zlib,file,libcap-ng,pam,python2
+aaa_libraries|bzip2
+aaa_libraries|eudev
+aaa_libraries|ncurses
+aaa_libraries|readline
+aaa_libraries|xz
+aaa_libraries|zlib
+file
+libcap-ng
+pam
+python2

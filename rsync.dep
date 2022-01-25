@@ -1,1 +1,8 @@
-aaa_elflibs|acl,aaa_elflibs|attr,aaa_elflibs|popt,aaa_elflibs|zlib,lz4,openssl|openssl-solibs,xxHash,zstd
+aaa_libraries|acl
+aaa_libraries|attr
+aaa_libraries|popt
+aaa_libraries|zlib
+aaa_libraries|zstd
+lz4
+openssl|openssl-solibs
+xxHash

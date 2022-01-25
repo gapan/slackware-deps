@@ -1,1 +1,7 @@
-aaa_elflibs|bzip2,aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|xz,aaa_elflibs|zlib,icu4c,zstd
+aaa_libraries|bzip2
+aaa_libraries|gcc
+aaa_libraries|gcc-g++
+aaa_libraries|xz
+aaa_libraries|zlib
+aaa_libraries|zstd
+icu4c

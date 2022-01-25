@@ -1,1 +1,3 @@
-aaa_elflibs|slang,aaa_elflibs|zlib,openssl|openssl-solibs
+aaa_libraries|slang
+aaa_libraries|zlib
+openssl|openssl-solibs

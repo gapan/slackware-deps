@@ -1,1 +1,4 @@
-dbus,elogind,libcap,libnl3
+aaa_libraries|libcap
+dbus
+elogind
+libnl3

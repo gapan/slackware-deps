@@ -1,1 +1,11 @@
-libICE,libSM,libX11,libXau,libXdmcp,libXext,libXmu,libXt,libxcb,libxkbfile,util-linux
+libICE
+libSM
+libX11
+libXau
+libXdmcp
+libXext
+libXmu
+libXt
+libxcb
+libxkbfile
+util-linux

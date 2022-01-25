@@ -1,1 +1,5 @@
-libX11,libXau,libXdmcp,libXmu,libxcb
+libX11
+libXau
+libXdmcp
+libXmu
+libxcb

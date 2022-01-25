@@ -1,1 +1,5 @@
-aaa_elflibs|eudev,aaa_elflibs|lvm2,aaa_elflibs|ncurses,aaa_elflibs|readline,util-linux
+aaa_libraries|eudev
+aaa_libraries|lvm2
+aaa_libraries|ncurses
+aaa_libraries|readline
+util-linux

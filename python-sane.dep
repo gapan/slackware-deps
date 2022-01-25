@@ -1,1 +1,6 @@
-aaa_elflibs|eudev,aaa_elflibs|libusb,aaa_elflibs|xz,aaa_elflibs|zlib,libxml2,sane
+aaa_libraries|eudev
+aaa_libraries|libusb
+aaa_libraries|xz
+aaa_libraries|zlib
+libxml2
+sane

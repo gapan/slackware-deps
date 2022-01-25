@@ -1,0 +1,17 @@
+aaa_libraries|gcc
+aaa_libraries|gcc-g++
+aaa_libraries|glib2
+aaa_libraries|keyutils
+aaa_libraries|krb5
+aaa_libraries|pcre
+aaa_libraries|zlib
+aaa_libraries|zstd
+boost
+e2fsprogs
+icu4c
+kholidays
+ki18n
+openssl|openssl-solibs
+pcre2
+python3
+qt5

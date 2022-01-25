@@ -1,1 +1,5 @@
-aaa_elflibs|expat,aaa_elflibs|libffi,aaa_elflibs|xz,aaa_elflibs|zlib,libxml2
+aaa_libraries|expat
+aaa_libraries|libffi
+aaa_libraries|xz
+aaa_libraries|zlib
+libxml2

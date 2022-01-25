@@ -1,1 +1,6 @@
-aaa_elflibs|eudev,aaa_elflibs|expat,aaa_elflibs|fuse,aaa_elflibs|libusb,bluez,openobex
+aaa_libraries|eudev
+aaa_libraries|expat
+aaa_libraries|fuse
+aaa_libraries|libusb
+bluez
+openobex

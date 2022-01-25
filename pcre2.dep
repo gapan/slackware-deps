@@ -1,1 +1,5 @@
-aaa_elflibs|bzip2,aaa_elflibs|ncurses,aaa_elflibs|readline,aaa_elflibs|zlib
+aaa_libraries
+aaa_libraries|bzip2
+aaa_libraries|ncurses
+aaa_libraries|readline
+aaa_libraries|zlib

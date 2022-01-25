@@ -1,1 +1,10 @@
-aaa_elflibs|alsa-lib,aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|zlib,audiofile,esound,flac,libid3tag,libmad,libogg
+aaa_libraries|alsa-lib
+aaa_libraries|gcc
+aaa_libraries|gcc-g++
+aaa_libraries|zlib
+audiofile
+esound
+flac
+libid3tag
+libmad
+libogg

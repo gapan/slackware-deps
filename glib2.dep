@@ -1,1 +1,6 @@
-aaa_elflibs|elfutils,aaa_elflibs|libffi,aaa_elflibs|pcre,aaa_elflibs|zlib,gamin,util-linux
+aaa_libraries
+aaa_libraries|elfutils
+aaa_libraries|libffi
+aaa_libraries|pcre
+aaa_libraries|zlib
+util-linux

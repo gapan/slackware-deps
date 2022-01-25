@@ -1,1 +1,6 @@
-aaa_elflibs|gcc,aaa_elflibs|gcc-g++,aaa_elflibs|ncurses,aaa_elflibs|zlib,icu4c,libedit
+aaa_libraries|gcc
+aaa_libraries|gcc-g++
+aaa_libraries|ncurses
+aaa_libraries|zlib
+icu4c
+libedit

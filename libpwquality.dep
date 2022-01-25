@@ -1,1 +1,3 @@
-aaa_elflibs|zlib,cracklib,pam
+aaa_libraries|zlib
+cracklib
+pam

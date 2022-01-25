@@ -1,1 +1,5 @@
-aaa_elflibs|alsa-lib,aaa_elflibs|ncurses,alsa-lib,fftw,libsamplerate
+aaa_libraries|alsa-lib
+aaa_libraries|ncurses
+alsa-lib
+fftw
+libsamplerate

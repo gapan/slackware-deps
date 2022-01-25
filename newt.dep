@@ -1,1 +1,5 @@
-aaa_elflibs|popt,aaa_elflibs|slang,aaa_elflibs|zlib,python2,tcl
+aaa_libraries|popt
+aaa_libraries|slang
+aaa_libraries|zlib
+python2
+tcl

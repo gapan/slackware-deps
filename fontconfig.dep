@@ -1,1 +1,11 @@
-aaa_elflibs|bzip2,aaa_elflibs|libpng,aaa_elflibs|pcre,aaa_elflibs|xz,aaa_elflibs|zlib,brotli,freetype,glib2,graphite2,harfbuzz,libxml2
+aaa_libraries|bzip2
+aaa_libraries|glib2
+aaa_libraries|libpng
+aaa_libraries|pcre
+aaa_libraries|xz
+aaa_libraries|zlib
+brotli
+freetype
+graphite2
+harfbuzz
+libxml2

@@ -1,1 +1,5 @@
-aaa_elflibs|zlib,e2fsprogs,lzo,util-linux
+aaa_libraries|eudev
+aaa_libraries|zlib
+e2fsprogs
+lzo
+util-linux

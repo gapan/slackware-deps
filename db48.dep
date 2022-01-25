@@ -1,1 +1,3 @@
-aaa_elflibs|gcc,aaa_elflibs|gcc-g++
+aaa_libraries
+aaa_libraries|gcc
+aaa_libraries|gcc-g++

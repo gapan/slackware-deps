@@ -1,1 +1,3 @@
-aaa_elflibs|eudev,aaa_elflibs|libusb,bluez
+aaa_libraries|eudev
+aaa_libraries|libusb
+bluez

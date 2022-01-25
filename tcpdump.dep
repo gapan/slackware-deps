@@ -1,1 +1,8 @@
-aaa_elflibs|zlib,dbus,elogind,libcap,libcap-ng,libnl3,libpcap,openssl|openssl-solibs
+aaa_libraries|libcap
+aaa_libraries|zlib
+dbus
+elogind
+libcap-ng
+libnl3
+libpcap
+openssl|openssl-solibs
