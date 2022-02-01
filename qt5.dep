@@ -48,7 +48,6 @@ gdk-pixbuf2
 glib2
 gnutls
 graphite2
-gst
 gst-plugins-base
 gstreamer
 gtk+3

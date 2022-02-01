@@ -30,7 +30,6 @@ glib2
 gnutls
 graphene
 graphite2
-gst
 gst-plugins-base
 gstreamer
 harfbuzz
