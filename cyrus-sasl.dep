@@ -8,8 +8,5 @@ aaa_libraries|libtirpc
 aaa_libraries|openldap
 aaa_libraries|zlib
 e2fsprogs
-icu4c
-mariadb
 openssl|openssl-solibs
 pam
-sqlite
