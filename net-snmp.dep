@@ -13,7 +13,6 @@ elogind
 libnl3
 libpcap
 lm_sensors
-mariadb
 openssl|openssl-solibs
 pciutils
 perl
