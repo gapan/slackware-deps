@@ -4,9 +4,5 @@ aaa_libraries|glib2
 aaa_libraries|pcre
 aaa_libraries|zlib
 aaa_libraries|zstd
-icu4c
 libassuan
 libgpg-error
-pcre2
-python2
-qt5
