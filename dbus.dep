@@ -1,10 +1,4 @@
 aaa_libraries|expat
 aaa_libraries|libcap
 elogind
-libICE
-libSM
-libX11
-libXau
-libXdmcp
-libxcb
 util-linux
