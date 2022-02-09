@@ -7,5 +7,4 @@ aaa_libraries|libnsl
 aaa_libraries|libtirpc
 aaa_libraries|zlib
 e2fsprogs
-mariadb
 openssl|openssl-solibs
