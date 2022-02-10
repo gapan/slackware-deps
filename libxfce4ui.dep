@@ -19,7 +19,6 @@ fontconfig
 freetype
 fribidi
 gdk-pixbuf2
-glade
 glib2
 graphite2
 gtk+3
