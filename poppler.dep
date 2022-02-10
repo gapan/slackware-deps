@@ -6,7 +6,6 @@ aaa_libraries|gcc-g++
 aaa_libraries|glib2
 aaa_libraries|keyutils
 aaa_libraries|krb5
-aaa_libraries|libffi
 aaa_libraries|libidn2
 aaa_libraries|libjpeg-turbo
 aaa_libraries|libnsl
@@ -26,10 +25,8 @@ cyrus-sasl
 e2fsprogs
 fontconfig
 freetype
-glib2
 graphite2
 harfbuzz
-icu4c
 lcms2
 libX11
 libXau
@@ -45,7 +42,4 @@ mozilla-nss
 nghttp2
 openjpeg
 openssl|openssl-solibs
-pcre2
 pixman
-qt5
-util-linux
