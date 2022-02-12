@@ -69,6 +69,4 @@ perl
 pixman
 python2
 sqlite
-tcl
-tk
 util-linux
