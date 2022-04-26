@@ -50,7 +50,6 @@ ktextwidgets
 kwidgetsaddons
 kwindowsystem
 kxmlgui
-lib
 libX11
 libXau
 libXdmcp
