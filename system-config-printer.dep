@@ -1,0 +1,7 @@
+python-request
+python-urllib3
+python-chardet|python-charset-normalizer
+python-certifi
+python-idna
+pygobject3
+gtk+3
