@@ -110,6 +110,6 @@ speex
 talloc
 tevent
 util-linux
-v4l-utils
+v4l-utils|v4l-utils-nogui
 wavpack
 wayland

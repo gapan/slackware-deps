@@ -191,7 +191,7 @@ talloc
 tevent
 threadweaver
 util-linux
-v4l-utils
+v4l-utils|v4l-utils-nogui
 vid.stab
 wayland
 xcb-util-keysyms

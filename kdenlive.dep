@@ -90,6 +90,6 @@ solid
 sonnet
 syndication
 util-linux
-v4l-utils
+v4l-utils|v4l-utils-nogui
 wayland
 xcb-util-keysyms
