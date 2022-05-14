@@ -70,4 +70,4 @@ pango
 pixman
 sysklogd
 util-linux
-v4l-utils|v4l-utils-nogui
+v4l-utils-nogui|v4l-utils
