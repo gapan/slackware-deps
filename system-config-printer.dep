@@ -1,4 +1,4 @@
-python-request
+python-requests
 python-urllib3
 python-chardet|python-charset-normalizer
 python-certifi
