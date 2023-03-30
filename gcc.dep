@@ -6,4 +6,3 @@ aaa_libraries|libmpc
 aaa_libraries|mpfr
 aaa_libraries|zlib
 aaa_libraries|zstd
-gcc-go
