@@ -24,3 +24,4 @@ nettle
 openssl|openssl-solibs
 p11-kit
 sane
+python-distro
