@@ -8,3 +8,4 @@ aaa_libraries|zlib
 libedit
 libxml2
 python3
+llvm13-compat
